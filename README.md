@@ -1,5 +1,5 @@
 # New-Thread-Detection
-Log new threads. 
+Log new threads.  
 20231128-1625.txt:
 ```
 [2023.11.28 16:22:36]
